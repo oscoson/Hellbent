@@ -1,0 +1,73 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Enemy
+  - StartPos
+  - Brick
+  - Prison
+  - Coins
+  - IntroDescription
+  - Music
+  - GameOver
+  - MainMusic
+  - Hellbent Effect
+  - Enemy Effect
+  - rock
+  - ranged gunk
+  - hazard
+  - pickup
+  - ScreenShake
+  - Boss
+  - Tutorial Music
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Enemy
+  - Water
+  - UI
+  - Player
+  - objectives
+  - Physics
+  - PostProcessing
+  - MainMenuPP
+  - ObjectivesPP
+  - Boss
+  - GameOver
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 3177792637
+    locked: 0
+  - name: Middle ground
+    uniqueID: 3781027469
+    locked: 0
+  - name: Foreground
+    uniqueID: 3786220077
+    locked: 0
+  - name: Top
+    uniqueID: 2565323645
+    locked: 0
