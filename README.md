@@ -1,3 +1,3 @@
-# Hellbent 1.0
+# Playable Game Demo
  
 Hellbent is finished! Please check out the game here: https://oscosan.itch.io/hellbent-full-demo
